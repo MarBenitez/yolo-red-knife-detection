@@ -23,5 +23,5 @@ The main goal of this project is to showcase real-time object detection capabili
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MarBenitez/yolo-red-kn/yolo-knife.py
+   git clone https://github.com/MarBenitez/yolo-red-kn/yolo-knife-detection.py
    cd real-time-object-detection
